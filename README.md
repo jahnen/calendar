@@ -4,6 +4,8 @@
 
 Minimal calendar is R Shiny application to generate monthly calendar.
 
+Inspired from [Neatnik's Calendar](https://neatnik.net/calendar/?year=2025)
+
 ## ✨ Features 
 - Generate monthly calendar
 
