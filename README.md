@@ -1,3 +1,6 @@
+<!-- Badges --> 
+<a href="https://www.producthunt.com/posts/minimal-calendar?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minimal&#0045;calendar" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=759215&theme=light" alt="Minimal&#0032;Calendar - Build&#0032;simple&#0032;monthly&#0032;calendar | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ![스크린샷 2025-01-04 오후 3 25 05](https://github.com/user-attachments/assets/2900b7d2-50b2-4a50-af88-6630ae8e91b9)
 
 # Minimal calendar
